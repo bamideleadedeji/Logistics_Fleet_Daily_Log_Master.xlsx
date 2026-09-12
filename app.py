@@ -15,7 +15,7 @@ st.caption(
 )
 
 # Sidebar - Sales & Monetization CTA
-st.sidebar.header("🚀 Get the Full Master Template")
+st.sidebar.header(" Get the Full Master Template")
 st.sidebar.info(
     "Need the offline Excel & Google Sheets master file with automated"
     " P&L formulas?"
